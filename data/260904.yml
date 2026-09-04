@@ -7,7 +7,7 @@ about:
   head: c6550cb
   archived: false
   latestVersion: v0.2.0
-  collectedAt: 2026-09-04T19:27:19Z
+  collectedAt: 2026-09-04T21:04:46Z
 timeline:
   created: 2025-04-03
   lastCommit: 2026-05-27
@@ -80,5 +80,33 @@ total:
   openIssue: 1
   commit: 4
 ---
+path: /home/runner/.x-repo/github.com/linkdd/regname
+collectedAt: 2026-09-04T21:04:47Z
+loc:
+  Rust:
+    code: 581
+    comments: 0
+    blanks: 42
+    files: 1
+  Toml:
+    code: 8
+    comments: 0
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 15
+    blanks: 10
+    files: 1
+  Text:
+    code: 0
+    comments: 17
+    blanks: 4
+    files: 1
+total:
+  code: 591
+  comments: 32
+  blanks: 57
+  files: 4
 ---
 
