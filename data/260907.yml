@@ -5,7 +5,7 @@ about:
   head: c6550cb
   archived: false
   latestVersion: "v0.2.0"
-  collectedAt: 2026-09-07T04:14:24Z
+  collectedAt: 2026-09-07T20:02:27Z
 timeline:
   created: 2025-04-03
   lastCommit: 2026-05-27
@@ -53,7 +53,7 @@ recent:
     openPR: 0
     closedIssue: 1
     openIssue: 1
-    commit: 0
+    commit: 2
   last360d:
     since: 2025-09-12
     release: 1
@@ -61,7 +61,7 @@ recent:
     openPR: 0
     closedIssue: 1
     openIssue: 1
-    commit: 0
+    commit: 2
   last720d:
     since: 2024-09-17
     release: 2
@@ -79,7 +79,7 @@ total:
   commit: 4
 ---
 path: /home/runner/.x-repo/github.com/linkdd/regname
-collectedAt: 2026-09-07T04:14:25Z
+collectedAt: 2026-09-07T20:02:28Z
 loc:
   Rust:
     code: 581
@@ -110,7 +110,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:14:25+00:00
+  collectedAt: 2026-09-07T20:02:29+00:00
   platform:
     darwin/arm64:
       name:  null
