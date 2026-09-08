@@ -5,7 +5,7 @@ about:
   head: c6550cb
   archived: false
   latestVersion: "v0.2.0"
-  collectedAt: 2026-09-08T01:39:59Z
+  collectedAt: 2026-09-08T04:15:07Z
 timeline:
   created: 2025-04-03
   lastCommit: 2026-05-27
@@ -79,7 +79,7 @@ total:
   commit: 4
 ---
 path: /home/runner/.x-repo/github.com/linkdd/regname
-collectedAt: 2026-09-08T01:40:00Z
+collectedAt: 2026-09-08T04:15:07Z
 loc:
   Rust:
     code: 581
