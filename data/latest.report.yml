@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.2.0"
   latestRelease: "v0.2.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:19:21Z
+  collectedAt: 2026-09-10T16:04:13Z
 timeline:
   created: 2025-04-03
   lastCommit: 2026-05-27
@@ -83,7 +83,7 @@ total:
   commit: 4
 ---
 path: /home/runner/.x-repo/github.com/linkdd/regname
-collectedAt: 2026-09-10T04:19:22Z
+collectedAt: 2026-09-10T16:04:15Z
 loc:
   Rust:
     code: 581
