@@ -113,4 +113,3 @@ total:
 ---
 
 ---
-{"id":330570617,"author":{"login":"linkdd","id":9212,"node_id":"MDQ6VXNlcjkyMTI=","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOOTgDy84TtBt5","tag_name":"v0.2.0","target_commitish":"main","name":"v0.2.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-05-27T23:33:06Z","updated_at":"2026-05-27T23:34:00Z","published_at":"2026-05-27T23:34:00Z","assets":[],"body":"**Full Changelog**: https://github.com/linkdd/regname/compare/v0.1.0...v0.2.0"}
