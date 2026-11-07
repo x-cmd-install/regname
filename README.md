@@ -35,7 +35,7 @@ Total: **589** lines of code across **4** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 165 · **Forks**: 5 · **Open issues**: 2 · **Contributors**: 1
+- **Stars**: 166 · **Forks**: 5 · **Open issues**: 2 · **Contributors**: 1
 
 ## Totals (cumulative)
 
@@ -45,12 +45,12 @@ Total: **589** lines of code across **4** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-07 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-08 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-10 | 1 | 0 | 0 | 1 | 1 | 2 |
-| 360d | 2025-11-11 | 1 | 0 | 0 | 1 | 1 | 2 |
-| last720d | 2024-11-16 | 2 | 0 | 0 | 1 | 1 | 4 |
+| 30d | 2026-10-08 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-08 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-09 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-11 | 1 | 0 | 0 | 1 | 1 | 2 |
+| 360d | 2025-11-12 | 1 | 0 | 0 | 1 | 1 | 2 |
+| last720d | 2024-11-17 | 2 | 0 | 0 | 1 | 1 | 4 |
 
 ## Distribution status
 
@@ -69,4 +69,4 @@ Install metadata for regname lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:12:19Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T05:40:45Z._
